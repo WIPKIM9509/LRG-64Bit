@@ -73,7 +73,7 @@ OFF = "[🔵]"
 -- Code Value LRG
 
 AutoKill = 0xC59468
-AutoWinz = 0x0
+AutoWinz = 0x181E338
 
 function main()
     menu = gg.multiChoice({ Mul1 .. " ⪩ ตายออโต้ ",
