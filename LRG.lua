@@ -113,8 +113,6 @@ end
 function Meu2()
     gg.setRanges(gg.REGION_CODE_APP)
         PHEX(GAME_BASE + AutoWinz, OBFUSCATE("00008052"))
-        gg.sleep(500)
-        PHEX(GAME_BASE + AutoWinz, OBFUSCATE("52A40D94"))
         gg.toast("✅ ᴅᴏɴᴇ : ON")
 end
 
@@ -133,4 +131,5 @@ while true do
         main()
     end
     Loop = 0
+
 end
