@@ -74,8 +74,8 @@ OFF = "[🔵]"
 
 NoCooldown = 0xC1CD44
 CrystalSpeed = 0xB2E0FC
-AutoKill = 0xC59468
-AutoWinz = 0x181E338
+AutoKill = 0xC6C4D0
+AutoWinz = 0x18523E0
 AntiReport = 0x6F8680
 
 function main()
@@ -215,4 +215,5 @@ while true do
         main()
     end
     Loop = 0
+
 end
